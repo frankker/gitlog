@@ -3,11 +3,6 @@ line2
 3rd line
 4th line
 master branch
-<<<<<<< HEAD
-master 1
-=======
-master feature 1
->>>>>>> MASTER FEATURE 1
 
 git rebase 1
 git rebase 2
