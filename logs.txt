@@ -1,11 +1,1 @@
-line1
-line2
-3rd line
-4th line
-<<<<<<< HEAD
-master main branch
-=======
-master branch
-master feature 1
-master feature 2
->>>>>>> master feature 2
+master 1
