@@ -7,3 +7,4 @@ real last one
 
 by remote 2
 by working dir 2 3
+by working newww
