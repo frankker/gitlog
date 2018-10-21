@@ -10,3 +10,4 @@ master feature 1
 >>>>>>> MASTER FEATURE 1
 
 git rebase 1
+git rebase 2
